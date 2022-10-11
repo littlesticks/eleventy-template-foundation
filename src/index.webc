@@ -1,0 +1,7 @@
+---
+layout: layouts/base.webc
+---
+
+<my-component></my-component>
+
+This is the content of a the index page.

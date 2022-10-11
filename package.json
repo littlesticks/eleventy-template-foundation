@@ -1,0 +1,25 @@
+{
+  "name": "eleventy-template-foundation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "eleventy.config.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/littlesticks/eleventy-template-foundation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/littlesticks/eleventy-template-foundation/issues"
+  },
+  "homepage": "https://github.com/littlesticks/eleventy-template-foundation#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.0-canary.16",
+    "@11ty/eleventy-plugin-webc": "^0.4.0"
+  }
+}
