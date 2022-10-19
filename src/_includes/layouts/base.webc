@@ -8,7 +8,6 @@
   <style @html="this.getCSS(this.page.url)"></style>
 </head>
 <body>
-  <h1>Eleventy Webc Template</h1>
   <main @html="this.content"></main>
 </body>
 </html>
